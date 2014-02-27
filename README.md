@@ -21,3 +21,6 @@ vimfiles
 
 [https://github.com/bling/vim-airline/blob/master/doc/airline.txt](https://github.com/bling/vim-airline/blob/master/doc/airline.txt)
 
+## vim-gitgutter
+
+[https://github.com/jaxbot/vim-gitgutter](https://github.com/jaxbot/vim-gitgutter)
