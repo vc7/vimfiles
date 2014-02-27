@@ -12,3 +12,9 @@ vimfiles
 ## nerdtree
 
 [https://github.com/scrooloose/nerdtree.git](https://github.com/scrooloose/nerdtree.git)
+
+## vim-airline
+
+[https://github.com/bling/vim-airline](https://github.com/bling/vim-airline)
+
+
