@@ -1,9 +1,9 @@
 vimfiles
 ======
 
-## pathogen 
+## vim-pathogen 
 
-repo and guide: [https://github.com/tpope/vim-pathogen](https://github.com/tpope/vim-pathogen)
+[https://github.com/tpope/vim-pathogen](https://github.com/tpope/vim-pathogen)
 
 ## vim-scriptease
 
