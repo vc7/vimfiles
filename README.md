@@ -17,4 +17,7 @@ vimfiles
 
 [https://github.com/bling/vim-airline](https://github.com/bling/vim-airline)
 
+#### Related Settings
+
+[https://github.com/bling/vim-airline/blob/master/doc/airline.txt](https://github.com/bling/vim-airline/blob/master/doc/airline.txt)
 
